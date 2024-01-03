@@ -1,0 +1,31 @@
+
+.card {
+    margin: 150px auto 0 auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 400px;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    background: #ddebf8;
+    border-radius: 5px;
+    border-bottom: 5px solid #d8cefe;
+
+
+    color: #2b2839;
+    
+  
+}
+
+
+.photo {
+    width: 160px;
+    border-radius: 5px;
+
+}
+
+
+
+.italic {
+    font-style: italic;
+}
